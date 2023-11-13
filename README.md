@@ -1,5 +1,4 @@
-### Here's my first README file !
-Here's a modification of my README file.
-And again, here's a new change.
+### Here's my main README:
 
-And now a final modification.
+Author: Valentin Badea
+Student at Ecole Polytechnique (France), specializing in Bioinformatics
